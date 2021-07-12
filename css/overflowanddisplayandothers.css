@@ -1,0 +1,12 @@
+/*#wrapper{
+	border: 1px solid tomato;
+	width:600px;
+	height:150px;
+	overflow:scroll;
+}
+*/
+
+#wrapper span{
+	color:red;
+	display:block;
+}

@@ -1,0 +1,20 @@
+tr{
+	text-align:center;
+	font: italic bold 2px;
+	text-transform:uppercase;
+}
+caption{
+	color:tomato;
+	font-size:20px;
+}
+.left{
+	text-align:left;
+}
+.table_first{
+		margin:0 auto;
+		background-color:yellow;
+}
+table,th,td{
+		border-collapse:collapse;
+		border:2px solid red;
+}

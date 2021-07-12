@@ -1,0 +1,20 @@
+#one{
+	float:left;
+	width:45%;
+	text-align:justify;
+	background-image:url('../images/landscapeforproject.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	margin-right:10px;
+}	
+
+#two{
+	float:left;
+	width:45%;
+	text-align:justify;
+	background-image:url('../images/landscapeforproject.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-right:0;
+}	

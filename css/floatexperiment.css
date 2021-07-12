@@ -1,0 +1,42 @@
+#one{
+	width:200px;
+	height:200px;
+	background-color:red;
+	float:left;
+	
+	/*transition: background-color 4s,width 3s cubic-bezier(0.53, 0.05, 0.13, 0.85);*/
+	
+	-ms-transition: all 2s ease-in;
+	-o-transition: all 2s ease-in;
+	-moz-transition: all 2s ease-in;
+	-webkit-transition: all 2s ease-in;
+	transition: all 2s ease-in;
+}
+#two{
+	width:200px;    
+	height:200px;
+	background-color:green;
+	float:left;
+	margin-left:20px;
+}
+#one >p{
+	margin: 80px
+}          
+#two >p{
+	margin: 0 auto;
+	text-align:center;
+}
+
+#one:hover{
+/*	width:500px; */
+	background-color:yellow;
+/*	transform: rotate(360deg); */
+/*	transform:skewX(10deg);    */
+	margin-top:100px;
+	-o-transform:scale(1.5,2);
+	-ms-transform:scale(1.5,2);
+	-webkit-transform:scale(1.5,2);
+	-moz-transform:scale(1.5,2);
+	transform:scale(1.5,2);
+	text-transform:uppercase;
+}

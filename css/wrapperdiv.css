@@ -1,0 +1,6 @@
+#wrapper > p{
+	color:red;
+}
+#wrapper > div > p{
+	color:green
+}

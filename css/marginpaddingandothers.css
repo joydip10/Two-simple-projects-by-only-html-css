@@ -1,0 +1,23 @@
+.myfirst{
+	width:30%;
+	height:320px;
+	background-color:yellow;
+	margin:20px 20px 0px 0px;
+	padding:15px;
+}
+
+.mysecond{
+	width:30%;
+	height:320px;
+	background-color:red;
+	margin:20px 20px 0px 0px;
+	padding:5px;
+}
+
+.mythird{
+	width:30%;
+	height:320px;
+	background-color:green;
+	margin:20px 20px 0px 0px;
+	padding:5px;
+}
